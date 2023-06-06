@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525222268741-6ec7ah250leoe1c39is05nn2f9v46m27.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525222268741-6ec7ah250leoe1c39is05nn2f9v46m27</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5m_iiXDCXAOWN0t6pUe0EaAj9SQhGJM8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525222268741</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebase-mariam</string>
+	<key>PROJECT_ID</key>
+	<string>sport-39c68</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sport-39c68.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525222268741:ios:32ee09b727ec1f19b0382c</string>
+</dict>
+</plist>
